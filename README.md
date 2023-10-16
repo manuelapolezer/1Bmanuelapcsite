@@ -1,3 +1,3 @@
 # 1Bmanuelapcsite
-## esta é uma farse
+## esta é uma frase
 ### esta é outra frase
